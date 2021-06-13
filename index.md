@@ -1,5 +1,5 @@
 ﻿---
-title: DartyBH on GitHub!
+title: DartyBH on GitHub
 layout: default
 ---
 
